@@ -1,0 +1,34 @@
+Hello World 
+I am learning Shell command at nHub Nigeria
+
+To create a folder
+
+mkdir folder_name
+
+To delete a folder 
+
+rmdir Folder_name
+
+To copy a fie
+
+copy c:\myfile.txt e:
+
+The above command will copy "myfile.txt" from the c: drive 
+
+copy *.txt e:
+
+The above command copies all text files in the current directory to the E: drive using a wildcard
+
+To move a file
+
+mv file_name new_folder
+
+The above comand move a file to another directory keeping the same name
+
+mv file_name/manual
+
+The above command move a file to another directory and give it a new name 
+
+To Rename a file
+
+ren "current_name.txt" "new_name.txt" 
